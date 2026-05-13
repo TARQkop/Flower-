@@ -1,27 +1,37 @@
-# Rose Animation (Python Turtle)
+# 🌹 Rose Animation (Python Turtle)
 
-An animated rose drawing project using Python `turtle` with an OOP structure.
+A procedural animated rose built using Python Turtle and object-oriented design.
 
-## Project Structure
+---
 
-- `rose.py`: entry point.
-- `stings/rose_animator.py`: main animation class (`RoseAnimator`).
-- `stings/rose_geometry.py`: geometry and math helper functions.
-- `stings/rose_shapes.py`: low-level drawing functions (petals, leaf, stem).
-- `stings/rose_settings.py`: project constants (colors, dimensions, animation speed).
+## ✨ Features
 
-## Run
+- Procedural rose drawing
+- Object-oriented architecture
+- Modular geometry system
+- Smooth animation control
+- Fully customizable parameters
+
+---
+
+## 🧠 Architecture
+
+- `rose_animator.py` → main animation controller  
+- `rose_geometry.py` → math & geometry logic  
+- `rose_shapes.py` → drawing primitives  
+- `rose_settings.py` → configuration constants  
+
+---
+
+## ▶️ Run
 
 ```bash
 python rose.py
 ```
 
-## Requirements
+---
 
-- Python 3.10+ (3.11+ recommended)
-- `turtle` module (usually included with standard Python)
+## ⚙️ Requirements
 
-## Notes
-
-- `__pycache__` files are temporary and safe to ignore.
-- You can customize visual and animation settings in `stings/rose_settings.py`.
+- Python 3.10+
+- Turtle (built-in)
