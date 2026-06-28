@@ -2,9 +2,15 @@
 
 > A procedural animated rose built with Python Turtle and object-oriented design.
 
+
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Turtle](https://img.shields.io/badge/Library-Turtle%20%28built--in%29-orange)
+
+<p align="center">
+    <img src="images/rose.png" width="700" alt="Rose Animation">
+</p>
 
 ---
 
@@ -100,16 +106,6 @@ RANDOM_SEED = 7
 5. `screen.ontimer()` recursively calls `animate()` to drive the continuous animation loop.
 
 ---
-
-## 📸 Visual Output
-
-- A **1000×760** window with a dark `#101820` background
-- A rose with **6 layers** and **82 petals** graduating from deep crimson to soft pink
-- A naturally curved stem with two swaying leaves
-- A golden spiral center for a realistic finishing touch
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the `LICENSE` file for details.
