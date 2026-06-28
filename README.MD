@@ -1,9 +1,8 @@
 # 🌹 Rose Animation
 
 > A procedural animated rose built with Python Turtle and object-oriented design.
-
-
-
+ 
+ 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Turtle](https://img.shields.io/badge/Library-Turtle%20%28built--in%29-orange)
